@@ -1,0 +1,83 @@
+
+{
+  "projects": [
+    {
+      "date": "07/10/2022",
+      "title": "Canvas",
+      "description": "A real state project using Canvas and scroll triger for good visuals",
+      "url": "https://canvas-project.vercel.app/",
+      "imgSrc": "https://media.discordapp.net/attachments/1131918622802055233/1187316656385572884/IMG-20231221-WA0010.jpg?ex=659671ce&is=6583fcce&hm=a7c50fb146bc7a12b4f649209b1bf7623dd5e60dca9f00028b7d50b6792be03b&=&format=webp&width=1199&height=582"
+    },
+
+    {
+      "date": "11/10/2022",
+      "title": "Locomotive",
+      "description": "A FrontEnd Project for Brand pramotion ",
+      "url": "https://locomotive-js-project.vercel.app/",
+      "imgSrc": "https://media.discordapp.net/attachments/1131918622802055233/1187316654032564254/IMG-20231221-WA0019.jpg?ex=659671cd&is=6583fccd&hm=5117b50630520689d316474c18d4d60110e632e688a541f8edd6350c0013d8f3&=&format=webp&width=1199&height=582"
+    },
+    {
+      "date": "15/10/2022",
+      "title": "MordernWeb",
+      "description": "A Mordern Day Wed disgn with Scroll triger",
+      "url": "https://gsap-web-disign.vercel.app/",
+      "imgSrc": "https://media.discordapp.net/attachments/1131918622802055233/1187316653780910120/IMG-20231221-WA0018.jpg?ex=659671cd&is=6583fccd&hm=f963c12a5fc390fd5e4a8815e5a9e471a5237f690b9d95a25ef282a06783a8a1&=&format=webp&width=1202&height=582"
+    },
+
+    {
+      "date": "17/10/2022",
+      "title": "Saitama",
+      "description": "GSAP Horizontal Scroll Project",
+      "url": "https://horizontal-gsap-scroll.vercel.app/",
+      "imgSrc": "https://media.discordapp.net/attachments/1131918622802055233/1187316655815147520/IMG-20231221-WA0012.jpg?ex=659671ce&is=6583fcce&hm=a6b3b72b7cf0ebb8ead0117c30e0cf7d41549793dc6935178d5bb17765a2cf3a&=&format=webp&width=1210&height=582"
+    },
+    {
+      "date": "17/10/2022",
+      "title": "XCrypto",
+      "description": "React realtime Crypto market project",
+      "url": "https://xcrypto-ten.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "GolfX",
+      "description": "GSAP location display project",
+      "url": "https://gsap-golf-project.vercel.app/",
+      "imgSrc": "https://media.discordapp.net/attachments/1131918622802055233/1187316654292606976/IMG-20231221-WA0016.jpg?ex=659671cd&is=6583fccd&hm=927c196df1fb4b3e36ba9fcb7e6d1893b0a9c956fc326bc583d2a4aca0154535&=&format=webp&width=1197&height=582"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "Too-Good",
+      "description": "A video player react project i use Axios for fetching and React router dom for Routing",
+      "url": "https://too-good-anmolawasthi117s-projects.vercel.app/",
+      "imgSrc": "https://media.discordapp.net/attachments/1131918622802055233/1187316067433979934/IMG-20231221-WA0020.jpg?ex=65967141&is=6583fc41&hm=43d7a81cdaa5b3602c6701f8c4c1269366dfd3dfc926a910eaadc1957678b219&=&format=webp&width=1210&height=582"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "Video Hub",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-vedio-player-app.vercel.app/ ",
+      "imgSrc": "https://media.discordapp.net/attachments/1131918622802055233/1187316654594605106/IMG-20231221-WA0015.jpg?ex=659671cd&is=6583fccd&hm=7f0a9ce7262c13580f9a85371fcc0dfef4da299aeb8f57cb8c57f4126726b4d3&=&format=webp&width=1217&height=582"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "ChunF",
+      "description": "This is a Locomotive practice project",
+      "url": "https://media.discordapp.net/attachments/1131918622802055233/1187316655815147520/IMG-20231221-WA0012.jpg?ex=659671ce&is=6583fcce&hm=a6b3b72b7cf0ebb8ead0117c30e0cf7d41549793dc6935178d5bb17765a2cf3a&=&format=webp&width=1210&height=582"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "Tech.co",
+      "description": "This is a react Routing project using React-Router-com",
+      "url": "https://first-react-app-henna-tau.vercel.app/  ",
+      "imgSrc": "https://media.discordapp.net/attachments/1131918622802055233/1187316655051780187/IMG-20231221-WA0013.jpg?ex=659671cd&is=6583fccd&hm=19ffa96198e2aac189e21744506014ce6c0fa8723010ad032501d2b7708b4dd8&=&format=webp&width=1202&height=582"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "Shery.js",
+      "description": "This is a Mordern wed design and you can use it for a product display",
+      "url": "https://front-end-project-gamma.vercel.app/ ",
+      "imgSrc": "https://media.discordapp.net/attachments/1131918622802055233/1187316655370543125/IMG-20231221-WA0014.jpg?ex=659671cd&is=6583fccd&hm=a690ed0f85fa6cd5f365a4994b52a245d77bbe4849db33dcf69bbc6e096749c1&=&format=webp&width=1199&height=582"
+    }
+  ]
+}
